@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Verena!
 ------
-I'm an early-career marine ecologist interested in movement and spatial ecology. Got into coding by accident, stayed for the beautiful graphs and data visualizations.📊
+I'm an early-career marine ecologist interested in movement and spatial ecology. Got into coding by accident, stayed for the beautiful graphs and data visualizations 📊
 
 
 
