@@ -10,6 +10,7 @@ I'm a...
 - 👩‍💻 Data enthusiast
 - 🧀 Cheese connoisseur
 - 🪴 Plant mom
+- 👩🏼‍🔬 PhD student
 
 Find me on [![Twitter][1.2]][1]
 
